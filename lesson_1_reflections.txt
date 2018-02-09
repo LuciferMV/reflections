@@ -1,0 +1,68 @@
+Q1. How did viewing a diff between two versions of a file help you 
+see the bug that was introduced?
+
+Ans: + meant what was added in second file, - meant what was not in 
+second file but was present in the 1st file.
+As per the question I focussed on what was added, and saw "spacr", 
+and thus, bingo, got it.
+
+--------------------------------------------------------------------
+
+Q2. How could having easy access to the entire history of a file 
+make you a more efficient programmer in the long term?
+
+Ans: Management is the key, in any field with long term goals and 
+visions. So, managing all my works, gives me great power to make a 
+choice when I need that power the most.
+
+-------------------------------------------------------------------
+
+Q3: What do you think are the pros and cons of manually choosing 
+when to create a commit, like you do in Git, vs having versions 
+automatically saved, like Google Docs does?
+
+Ans: Pros: We are able to be more logical regarding changes made to 
+file,thus preventing the cluttering of our history, as well as 
+each commit as a single (or similar type ) logical change.
+
+Cons: It leaves the scope for human errors. We might forget to commit , and may lose our crucial changes.
+
+---------------------------------------------------------------------
+
+Q4: Why do you think some version control systems, like Git, allow
+saving multiple files in one commit, while others, like Google Docs, 
+treat each file separately?
+
+Ans: Git provides version control, mainly for coding. 
+Hence, it is understood that different files would be highly 
+interrelated. So, it allows saving multiple files in one commit.
+
+---------------------------------------------------------------------
+
+Q5: How can you use the commands git log and git diff to view the history of files?
+
+Ans:
+(i) git log (also git log --stat) provides the entire commit 
+history, with commit messages 
+(in case of --stat , also the number of lines added and removed),
+
+(ii) "git diff " gives the differences between the 2 versions,
+assuming the 1st parameter as base and 2nd as derived.
+Any extra line in derived is denoted as "+" and not present in derived is denoted as "-".
+
+---------------------------------------------------------------------
+
+Q6: How might using version control make you more confident to make changes that could break something?
+
+Ans: Version control records all commits.
+So even a bug introduced can be corrected at first by reverting back 
+to previous commit.
+
+---------------------------------------------------------------------
+
+Q7: Now that you have your workspace set up, what do you want to try using Git for?
+
+Ans: To make a project..
+
+---------------------------------------------------------------------
+
