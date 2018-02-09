@@ -1,0 +1,23 @@
+
+Q1: What happens when you initialize a repository? Why do you need to do it?
+
+Ans: When we initialize a repository using git init, it becomes a git repository, capable of version control...
+A new subdirectory called ".git" is created in it.
+Now we can do all such operations as commits,etc.. on this.
+
+-------------------------------------------------------------------
+
+Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Ans: Working directory is just a directory with our files and all.
+No special mechanisms of version control..
+Repository is the version controlled system, of our files, having 
+all necessary features to implement rollback and all..
+Staging area is the intermediary, has the files to be added to the next commit our repository, from our present working directory.
+
+The value it offers is that it provides us a stage for our present 
+work, so that we can save it to next commit.
+
+-------------------------------------------------------------------
+
+Q3: 
