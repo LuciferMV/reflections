@@ -49,3 +49,10 @@ We represent it in the diagram as such because this way provides us most
 information about the history too.
 
 -----------------------------------------------------------------------------
+
+Q7: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Ans: Pros include automation, which saves much of our efforts, time and also prevents from further human errors which might be encountered.
+Cons include that it may lead to merge conflict, due some logical problems, which , as of now, only human beings can understand.
+
+----------------------------------------------------------------------------
