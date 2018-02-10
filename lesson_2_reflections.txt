@@ -20,4 +20,23 @@ work, so that we can save it to next commit.
 
 -------------------------------------------------------------------
 
-Q3: 
+Q3: How can you use the staging area to make sure you have one commit per logical change?
+
+Ans: Use "git diff --staged" to find out the differences between staging area and the last commit, by which I can see if I am not making more than one logical change in this.
+
+-------------------------------------------------------------------------
+
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Ans: When introducing some new experimental features.
+Branches would prevent cluttering and prevent from being detached , which would happen otherwise if the previous version (commit) would have 
+been buggy, and hence would need to be removed from the repository.
+
+----------------------------------------------------------------------------
+
+Q5: How do the diagrams help you visualize the branch structure?
+
+Ans: Diagram makes it quite easy to form a basic idea of the sequence of our commits.
+It also helps to prevent the situation of losing our "detached head commits".
+
+-------------------------------------------------------------------------
