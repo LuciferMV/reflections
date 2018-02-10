@@ -14,3 +14,18 @@ Thus, helping in collaborations and discussions...
 
 ---------------------------------------------------------------------------
 
+Q3: Describe the differences between forks, clones, and branches. When would 
+you use one instead of another?
+
+Ans: 
+Fork : Basically copying a repository from account of one person to mine , in 
+remote only.
+
+Clone : Copy a repository from one directory to another (for example from 
+remote to local directory)
+
+Branch: Making a separate direction to save our present version... 
+
+
+----------------------------------------------------------------------------
+
