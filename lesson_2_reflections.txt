@@ -40,3 +40,12 @@ Ans: Diagram makes it quite easy to form a basic idea of the sequence of our com
 It also helps to prevent the situation of losing our "detached head commits".
 
 -------------------------------------------------------------------------
+
+Q6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Ans: Merging 2 branches, combines their effect into one. Thus, consequently,
+the different functionalitis would be combined.
+We represent it in the diagram as such because this way provides us most 
+information about the history too.
+
+-----------------------------------------------------------------------------
