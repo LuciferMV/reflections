@@ -8,6 +8,9 @@ on the same project.
 Q2: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Ans: To prevent cluttering ,... and also to let us have the control and freedom...
+Also to let other people do their own editing on their own versions of 
+codes.
+Thus, helping in collaborations and discussions...
 
 ---------------------------------------------------------------------------
 
