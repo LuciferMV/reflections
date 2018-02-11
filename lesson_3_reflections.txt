@@ -29,3 +29,9 @@ Branch: Making a separate direction to save our present version...
 
 ----------------------------------------------------------------------------
 
+Q4: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Ans: The benefit of having a copy of the last known state of the remote stored locally is that we can always do comparisons based on that state, whenever events like push or pull or anything else is required..
+
+-----------------------------------------------------------------
+
