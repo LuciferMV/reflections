@@ -35,3 +35,17 @@ Ans: The benefit of having a copy of the last known state of the remote stored l
 
 -----------------------------------------------------------------
 
+Q5: How would you collaborate without using Git or GitHub? What 
+would be easier, and what would be harder?
+
+Ans: Without Git or Github, the way of collaboration would be 
+primitive one as edits to a file, comparing files, sending mails, 
+manually screening and merging changes,etc...
+For very small projects, primitive method would be easier, since 
+git and github also involves somewhat steep learning curve..
+But for large projects, and also in the long run, Git would be much
+much easier, compared to maintianance and collaboration using 
+primitive method.
+
+---------------------------------------------------------------------
+
