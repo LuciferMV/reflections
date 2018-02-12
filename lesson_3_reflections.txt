@@ -49,3 +49,13 @@ primitive method.
 
 ---------------------------------------------------------------------
 
+Q6: When would you want to make changes in a separate branch rather 
+than directly in master? What benefits does each approach have?
+
+Ans: Whenever work is going on in a collaborative environment, it 
+is recommended to make changes in a separate branch rather than 
+directly in master. It is in order to give the people, ample 
+opportunity to read and review the changes made by anyone.
+	The other approach, i.e, making changes directly in master , though may be fast, gives much scope to errors.
+-------------------------------------------------------------------
+
